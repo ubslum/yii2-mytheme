@@ -1,6 +1,6 @@
 {
-    "name": "ubslum/yii2-projectbusinessidea",
-    "description": "Project Business Idea",
+    "name": "ubslum/yii2-mytheme",
+    "description": "My theme for yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "Apache-2.0",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ubslum\\projectbusinessidea\\": ""
+            "ubslum\\mytheme\\": ""
         }
     }
 }
